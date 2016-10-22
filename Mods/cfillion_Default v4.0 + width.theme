@@ -1,0 +1,11 @@
+@description Default v4.0 theme + width knob
+@version 1.0
+@author cfillion
+@links
+  Forum Thread http://forum.cockos.com/showthread.php?t=175565
+  Stash Page http://stash.reaper.fm/theme/1777/Default_4.0_width.ReaperThemeZip
+@screenshot https://i.imgur.com/irCO9qZ.png
+@provides Default_4.0 + width.ReaperThemeZip http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip
+@about
+  This is a modification of the default REAPER v4.0 theme to enable the
+  width knob in the "Stereo balance" pan mode.

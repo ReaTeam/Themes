@@ -19,7 +19,7 @@ https://github.com/ReaTeam/Themes/raw/master/index.xml
 1. [Fork](https://github.com/ReaTeam/Themes/fork) this repository in your GitHub account
 2. Create a package file for your theme named `user_Name of the theme.theme`
    in an appropriate category (directory). Check out the
-[package examples](https://github.com/cfillion/reapack-index/wiki/Examples#theme) and
+[package examples](https://github.com/cfillion/reapack-index/wiki/Examples) and
 reapack-index's [packaging documentation](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation).
 3. Ensure the download URL (specified in the `@provides` tag) is unique
    for each version of your theme.

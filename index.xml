@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaTeam Themes" commit="fec5c30b99a304ec8a36129f219f1af1eabbe027">
+<index version="1" name="ReaTeam Themes" commit="4d6c856138e9b78065778e69d18693e258bc9263">
   <category name="Mods">
     <reapack name="cfillion_Default v4.0 + width.theme" type="theme" desc="Default v4.0 theme + width knob">
       <metadata>
@@ -16,6 +16,37 @@
       </metadata>
       <version name="1.0" author="cfillion" time="2016-10-22T00:44:50Z">
         <source file="Default_4.0 + width.ReaperThemeZip">http://stash.reaper.fm/27310/Default_4.0_width.ReaperThemeZip</source>
+      </version>
+    </reapack>
+    <reapack name="Pet_Default_v5_Dark.theme" type="theme" desc="Default v5 Dark Theme">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This is my dark version of the v5 default theme. It has the same functionality as the original theme, whereas if you color your tracks, the color is more visible. The very useful stretch/resize feature of the panels in the mixer and the arrange window is just like in the original.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 I kept the colors and positions of the buttons (Solo=yellow, Mute=red, FX=green/red,...) so if you are used to it, no changes here.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Originally I made this dark version for my own use, but decided to share it, maybe anyone has use of it.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 But there are some differences I want to mention:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This has changed:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab if you use the "Dual Pan"-Mode, the color of the right channel is red, the left channel is blue, according to the other pan colors\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab the Transport Play/Pause buttons: if stopped, they are "unlit", if on/pause is active, they are "lit"\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab the meters are 3-color-style (green/yellow/red)\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This has been added:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab a layout named "Standard bottom" for the Transport Bar, which can be useful when you have the Transport Bar docked at the bottom of the main window. This layout adds a little space below the Play Buttons.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab a drum toolbar button for the MIDI Editor. If you use the "Named Notes Mode" for drums and want a drum icon there, you can take this one. There's actually a drum icon in the default theme, but in the MIDI Editor there is now a nice frame around these four Mode-Icons. I added this frame to that toolbar icon\sa180\par}
+}
+]]></description>
+        <link rel="website" href="http://forum.cockos.com/showthread.php?t=172024">Forum Thread</link>
+        <link rel="screenshot" href="http://stash.reaper.fm/26633/Default%20v5%20Dark%20Overview%20HiRes.PNG">Overview</link>
+        <link rel="screenshot" href="http://stash.reaper.fm/26624/Default%20v5%20Dark%20Mixer%20Small.png">The Mixer</link>
+        <link rel="screenshot" href="http://stash.reaper.fm/26630/Default%20v5%20Dark%20tcp%20and%20Arrange%20HiRes.PNG">Arrange and TCP with "Standard bottom"</link>
+        <link rel="screenshot" href="http://stash.reaper.fm/26623/Default%20v5%20Dark%20Midi%20Editor%20Small.png">MIDI Editor</link>
+      </metadata>
+      <version name="1.0" author="Pet" time="2016-11-20T12:31:11Z">
+        <changelog><![CDATA[- Updated to v5.22 (added preview)]]></changelog>
+        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/theme/1722/Default_5_Dark.ReaperThemeZip</source>
+        <source type="data" file="toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png">http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png</source>
       </version>
     </reapack>
   </category>

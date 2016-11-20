@@ -81,7 +81,9 @@ packaging documentation
 {\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab Send a {\field{\*\fldinst{HYPERLINK "https://help.github.com/articles/creating-a-pull-request-from-a-fork/"}}{\fldrslt{\ul
 pull request
 }}}
- here, done!\sa180\par}
+ here\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 5.\tx360\tab Wait for moderators validation (it should be quick)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 6.\tx360\tab If everything is ok... it's done!\sa180\par}
 }
 ]]></description>
   </metadata>

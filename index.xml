@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaTeam Themes" commit="4d6c856138e9b78065778e69d18693e258bc9263">
+<index version="1" name="ReaTeam Themes" commit="0c89e17e061485ead2a839a1d582838d04a475ba">
   <category name="Mods">
     <reapack name="cfillion_Default v4.0 + width.theme" type="theme" desc="Default v4.0 theme + width knob">
       <metadata>
@@ -45,7 +45,7 @@
       </metadata>
       <version name="1.0" author="Pet" time="2016-11-20T12:31:11Z">
         <changelog><![CDATA[- Updated to v5.22 (added preview)]]></changelog>
-        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/theme/1722/Default_5_Dark.ReaperThemeZip</source>
+        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/26627/Default_5_Dark.ReaperThemeZip</source>
         <source type="data" file="toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png">http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png</source>
       </version>
     </reapack>

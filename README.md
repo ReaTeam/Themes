@@ -23,4 +23,6 @@ https://github.com/ReaTeam/Themes/raw/master/index.xml
 reapack-index's [packaging documentation](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation).
 3. Ensure the download URL (specified in the `@provides` tag) is unique
    for each version of your theme.
-4. Send a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) here, done!
+4. Send a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) here
+5. Wait for moderators validation (it should be quick)
+6. If everything is ok... it's done!

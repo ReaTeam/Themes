@@ -66,24 +66,20 @@
 {\pard \ql \f0 \sa180 \li0 \fi0 Copy and paste this URL in Extensions > ReaPack > Import a repository:\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/ReaTeam/Themes/raw/master/index.xml\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Contributing\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab {\field{\*\fldinst{HYPERLINK "https://github.com/ReaTeam/Themes/fork"}}{\fldrslt{\ul
-Fork
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab {\field{\*\fldinst{HYPERLINK "https://github.com/ReaTeam/Themes/new/master"}}{\fldrslt{\ul
+Create
 }}}
- this repository in your GitHub account\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Create a package file for your theme named {\f1 user_Name of the theme.theme} in an appropriate category (directory). Check out the {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index/wiki/Examples"}}{\fldrslt{\ul
+ a package file for your theme named {\f1 Category/username_Name of the theme.theme}\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Click on "Propose new file" and create a Pull Request\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Wait for moderators validation (it should be quick)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab If everything is ok... it's done!\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Check out the {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index/wiki/Examples"}}{\fldrslt{\ul
 package examples
 }}}
  and reapack-index's {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation"}}{\fldrslt{\ul
 packaging documentation
 }}}
-.\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Ensure the download URL (specified in the {\f1 @provides} tag) is unique for each version of your theme.\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab Send a {\field{\*\fldinst{HYPERLINK "https://help.github.com/articles/creating-a-pull-request-from-a-fork/"}}{\fldrslt{\ul
-pull request
-}}}
- here\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 5.\tx360\tab Wait for moderators validation (it should be quick)\par}
-{\pard \ql \f0 \sa0 \li360 \fi-360 6.\tx360\tab If everything is ok... it's done!\sa180\par}
+. Ensure the download URL (specified in the {\f1 @provides} tag) is unique for each version of your theme.\par}
 }
 ]]></description>
   </metadata>

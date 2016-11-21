@@ -6,6 +6,9 @@ Community-maintained collection of themes for REAPER
 
 ## Contributors
 
+- [cfillion](http://forum.cockos.com/member.php?u=98780)
+- [Pet](http://forum.cockos.com/member.php?u=103730)
+
 ## Installation
 
 Copy and paste this URL in Extensions > ReaPack > Import a repository:

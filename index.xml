@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaTeam Themes" commit="0c89e17e061485ead2a839a1d582838d04a475ba">
+<index version="1" name="ReaTeam Themes" commit="85acca6c3dbff2a879757c52f055bbf6806ea8fe">
   <category name="Mods">
     <reapack name="cfillion_Default v4.0 + width.theme" type="theme" desc="Default v4.0 theme + width knob">
       <metadata>
@@ -39,13 +39,23 @@
 ]]></description>
         <link rel="website" href="http://forum.cockos.com/showthread.php?t=172024">Forum Thread</link>
         <link rel="screenshot" href="http://stash.reaper.fm/26633/Default%20v5%20Dark%20Overview%20HiRes.PNG">Overview</link>
-        <link rel="screenshot" href="http://stash.reaper.fm/26624/Default%20v5%20Dark%20Mixer%20Small.png">The Mixer</link>
+        <link rel="screenshot" href="http://stash.reaper.fm/26619/Default%20v5%20Dark%20Mixer%20HiRes.png">The Mixer</link>
         <link rel="screenshot" href="http://stash.reaper.fm/26630/Default%20v5%20Dark%20tcp%20and%20Arrange%20HiRes.PNG">Arrange and TCP with "Standard bottom"</link>
-        <link rel="screenshot" href="http://stash.reaper.fm/26623/Default%20v5%20Dark%20Midi%20Editor%20Small.png">MIDI Editor</link>
+        <link rel="screenshot" href="http://stash.reaper.fm/26620/Default%20v5%20Dark%20Midi%20Editor%20HiRes.PNG">MIDI Editor</link>
       </metadata>
       <version name="1.0" author="Pet" time="2016-11-20T12:31:11Z">
         <changelog><![CDATA[- Updated to v5.22 (added preview)]]></changelog>
         <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/26627/Default_5_Dark.ReaperThemeZip</source>
+        <source type="data" file="toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png">http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png</source>
+      </version>
+      <version name="2016/06/28" author="Pet" time="2016-11-21T00:08:48Z">
+        <changelog><![CDATA[- Updated to v5.22 (added preview)]]></changelog>
+        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/theme/1722/Default_5_Dark.ReaperThemeZip</source>
+        <source type="data" file="toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png">http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png</source>
+      </version>
+      <version name="5.25" author="Pet" time="2016-11-21T00:08:48Z">
+        <changelog><![CDATA[- Updated to v5.22 (added preview)]]></changelog>
+        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/theme/1722/Default_5_Dark.ReaperThemeZip</source>
         <source type="data" file="toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png">http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png</source>
       </version>
     </reapack>

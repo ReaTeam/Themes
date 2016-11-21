@@ -62,6 +62,14 @@
 \par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Community-maintained collection of themes for REAPER\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Contributors\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "http://forum.cockos.com/member.php?u=98780"}}{\fldrslt{\ul
+cfillion
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\field{\*\fldinst{HYPERLINK "http://forum.cockos.com/member.php?u=103730"}}{\fldrslt{\ul
+Pet
+}}}
+\sa180\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Installation\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Copy and paste this URL in Extensions > ReaPack > Import a repository:\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/ReaTeam/Themes/raw/master/index.xml\par}

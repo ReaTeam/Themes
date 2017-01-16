@@ -4,7 +4,7 @@
   - Updated to v5.22 (added preview)
   - modified midi_note_colormap
 @provides
-  Default_5_Dark.ReaperThemeZip http://stash.reaper.fm/1923/Default_5_Dark.ReaperThemeZip
+  Default_5_Dark.ReaperThemeZip http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip
   [data] toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png
 @author Pet
 @links

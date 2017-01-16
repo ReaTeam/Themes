@@ -1,8 +1,6 @@
 @description Default v5 Dark Theme
-@version 1.1
+@version 1.0
 @changelog
-  - Updated to v5.22 (added preview)
-  - modified midi_note_colormap
 @provides
   Default_5_Dark.ReaperThemeZip http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip
   [data] toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png
@@ -16,7 +14,6 @@
   MIDI Editor http://stash.reaper.fm/29511/Default%20v5%20Dark%20Midi%20Editor%20HiRes.PNG
 @about
   This is my dark version of the v5 default theme. It has the same functionality as the original theme, whereas if you color your tracks, the color is more visible.
-  The very useful stretch/resize feature of the panels in the mixer and the arrange window is just like in the original.
 
   But there are some differences I want to mention:
 

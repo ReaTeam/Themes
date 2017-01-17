@@ -1,8 +1,7 @@
 @description Default v5 Dark Theme
-@version 1.1
+@version 1.0
 @changelog
   - Updated to v5.22 (added preview)
-  - modified midi_note_colormap
 @provides
   Default_5_Dark.ReaperThemeZip http://stash.reaper.fm/1923/Default_5_Dark.ReaperThemeZip
   [data] toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png

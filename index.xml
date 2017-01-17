@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaTeam Themes" commit="edb4a60354c7427e403f3ff9784b0b4adf969b0b">
+<index version="1" name="ReaTeam Themes" commit="7602ab41c1645c0e1f650b5a955ddeb98ff0d8c6">
   <category name="Mods">
     <reapack name="cfillion_Default v4.0 + width.theme" type="theme" desc="Default v4.0 theme + width knob">
       <metadata>
@@ -24,7 +24,7 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 This is my dark version of the v5 default theme. It has the same functionality as the original theme, whereas if you color your tracks, the color is more visible. The very useful stretch/resize feature of the panels in the mixer and the arrange window is just like in the original.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This is my dark version of the v5 default theme. It has the same functionality as the original theme, whereas if you color your tracks, the color is more visible.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 But there are some differences I want to mention:\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 This has changed:\par}
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab if you use the "Dual Pan"-Mode, the color of the right channel is red, the left channel is blue, according to the other pan colors\par}
@@ -43,7 +43,7 @@
       </metadata>
       <version name="1.0" author="Pet" time="2016-11-20T12:31:11Z">
         <changelog><![CDATA[- Updated to v5.22 (added preview)]]></changelog>
-        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/1923/Default_5_Dark.ReaperThemeZip</source>
+        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip</source>
         <source type="data" file="toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png">http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png</source>
       </version>
     </reapack>

@@ -1,11 +1,8 @@
 @description Default v5 Dark Theme
 @version 1.1
 @changelog
-  - Updated to v5.22 (added preview)
-v1.1
   - MIDI Editor Colormap reworked
-  - Changes in the ME Tracklist
-  - Separators added  
+  - Changes in the ME Tracklist  
 @provides
   Default_5_Dark.ReaperThemeZip http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip
   [data] toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png
@@ -18,9 +15,9 @@ v1.1
   Arrange and TCP with "Standard bottom" http://stash.reaper.fm/29518/Default%20v5%20Dark%20tcp%20and%20Arrange%20HiRes.PNG
   MIDI Editor http://stash.reaper.fm/29515/Default%20v5%20Dark%20Midi%20Editor%20HiRes.PNG
 @about
-  This is my dark version of the v5 default theme. It has the same functionality and layouts as the original theme, whereas if you color your tracks, the color is more visible.
+  This is my dark version of the v5 default theme. It has the same functionality and layouts as the original theme, if you color your tracks, the color is more visible.
 
-  But there are some differences I want to mention:
+  There are some differences I want to mention:
 
   This has changed:
   - if you use the "Dual Pan"-Mode, the color of the right channel is red, the left channel is blue, according to the other pan colors
@@ -30,4 +27,3 @@ v1.1
   This has been added:
   - a layout named "Standard bottom" for the Transport Bar, which can be useful when you have the Transport Bar docked at the bottom of the main window. This layout adds a little space below the Play Buttons.
   - a drum toolbar button for the MIDI Editor. If you use the "Named Notes Mode" for drums and want a drum icon there, you can take this one. There's actually a drum icon in the default theme, but in the MIDI Editor there is now a nice frame around these four Mode-Icons. I added this frame to that toolbar icon.
-  - Separators in Arrange Window and Mixer (in v1.1)

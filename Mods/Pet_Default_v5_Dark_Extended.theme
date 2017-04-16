@@ -25,4 +25,5 @@
 
   This has been added:
   - a layout named "Standard bottom" for the Transport Bar, which can be useful when you have the Transport Bar docked at the bottom of the main window. This layout adds a little space below the Play Buttons.
-- a drum toolbar button for the MIDI Editor. If you use the "Named Notes Mode" for drums and want a drum icon there, you can take this one. There's actually a drum icon in the default theme, but in the MIDI Editor there is now a nice frame around these four Mode-Icons. I added this frame to that toolbar icon.
+  - a drum toolbar button for the MIDI Editor. If you use the "Named Notes Mode" for drums and want a drum icon there, you can take this one. There's actually a drum icon in the default theme, but in the MIDI Editor there is now a nice frame around these four Mode-Icons. I added this frame to that toolbar icon.
+  

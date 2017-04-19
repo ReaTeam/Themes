@@ -41,11 +41,6 @@
         <link rel="screenshot" href="http://stash.reaper.fm/29518/Default%20v5%20Dark%20tcp%20and%20Arrange%20HiRes.PNG">Arrange and TCP with "Standard bottom"</link>
         <link rel="screenshot" href="http://stash.reaper.fm/29515/Default%20v5%20Dark%20Midi%20Editor%20HiRes.PNG">MIDI Editor</link>
       </metadata>
-      <version name="1.0" author="Pet" time="2016-11-20T12:31:11Z">
-        <changelog><![CDATA[- Updated to v5.22 (added preview)]]></changelog>
-        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip</source>
-        <source type="data" file="toolbar_icons/toolbar_midi_mode_named_notes_off_Drums.png">http://stash.reaper.fm/28155/toolbar_midi_mode_named_notes_off_Drums.png</source>
-      </version>
       <version name="1.1" author="Pet" time="2017-04-19T08:04:55Z">
         <changelog><![CDATA[- MIDI Editor Colormap reworked
 - Changes in the ME Tracklist  ]]></changelog>

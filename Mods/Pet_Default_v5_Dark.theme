@@ -3,9 +3,8 @@
 @changelog
   - MIDI Editor Colormap reworked
   - Changes in the ME Tracklist  
-@provides
-  Default_5_Dark.ReaperThemeZip http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip
- @author Pet
+@provides Default_5_Dark.ReaperThemeZip http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip
+@author Pet
 @links
   Forum Thread http://forum.cockos.com/showthread.php?t=172024
 @screenshots

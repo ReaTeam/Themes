@@ -1,9 +1,8 @@
-@description Default v5 Dark Theme
-@version 1.1
+@description Default v5 Dark Extended Theme
+@version 1.0
 @changelog
-  - MIDI Editor Colormap reworked
-  - Changes in the ME Tracklist  
-@provides Default_5_Dark.ReaperThemeZip http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip
+  - initial release with separators 
+@provides Default_5_Dark_Extended.ReaperThemeZip http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip
 @author Pet
 @links
   Forum Thread http://forum.cockos.com/showthread.php?t=172024
@@ -13,7 +12,7 @@
   Arrange and TCP with "Standard bottom" http://stash.reaper.fm/29518/Default%20v5%20Dark%20tcp%20and%20Arrange%20HiRes.PNG
   MIDI Editor http://stash.reaper.fm/29515/Default%20v5%20Dark%20Midi%20Editor%20HiRes.PNG
 @about
-  This is my dark version of the v5 default theme. It has the same functionality and layouts as the original theme, if you color your tracks, the color is more visible.
+  This is the extended version of my Default 5 Dark Theme, a darker version of the original default theme. It has more layouts, at the moment only separators, but I'm working on some more. (see the thread in the forum)
 
   There are some differences I want to mention:
 

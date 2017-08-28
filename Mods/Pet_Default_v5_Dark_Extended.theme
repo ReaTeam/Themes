@@ -1,7 +1,9 @@
 @description Default v5 Dark Extended Theme
-@version 1.0
+@version 1.1
 @changelog
-  - initial release with separators 
+  - "Record Arm" buttons in TrackControlPanel adapted to other record buttons
+  - Fixed "Record Arm" button shadow in tcp-small layouts  
+  - Fader buttons in mixer reworked   
 @provides Default_5_Dark_Extended.ReaperThemeZip http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip
 @author Pet
 @links

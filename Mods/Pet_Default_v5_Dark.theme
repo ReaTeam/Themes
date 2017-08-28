@@ -1,8 +1,9 @@
 @description Default v5 Dark Theme
-@version 1.1
+@version 1.2
 @changelog
-  - MIDI Editor Colormap reworked
-  - Changes in the ME Tracklist  
+  - "Record Arm" buttons in TrackControlPanel adapted to other record buttons
+  - Fixed "Record Arm" button shadow in tcp-small layouts 
+  - Fader buttons in mixer reworked  
 @provides Default_5_Dark.ReaperThemeZip http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip
 @author Pet
 @links
@@ -13,7 +14,7 @@
   Arrange and TCP with "Standard bottom" http://stash.reaper.fm/29518/Default%20v5%20Dark%20tcp%20and%20Arrange%20HiRes.PNG
   MIDI Editor http://stash.reaper.fm/29515/Default%20v5%20Dark%20Midi%20Editor%20HiRes.PNG
 @about
-  This is my dark version of the v5 default theme. It has the same functionality and layouts as the original theme, if you color your tracks, the color is more visible.
+  This is my dark version of the v5 default theme. It has the same functionality as the original theme and includes all layouts. The colors you choose for your tracks are more visible. If you want it pastel-colored or saturated colors, it looks more like you've chosen it . But its overall appearance is dark.
 
   There are some differences I want to mention:
 

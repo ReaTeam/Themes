@@ -41,11 +41,6 @@
         <link rel="screenshot" href="http://stash.reaper.fm/29518/Default%20v5%20Dark%20tcp%20and%20Arrange%20HiRes.PNG">Arrange and TCP with "Standard bottom"</link>
         <link rel="screenshot" href="http://stash.reaper.fm/29515/Default%20v5%20Dark%20Midi%20Editor%20HiRes.PNG">MIDI Editor</link>
       </metadata>
-      <version name="1.1" author="Pet" time="2017-04-19T08:04:55Z">
-        <changelog><![CDATA[- MIDI Editor Colormap reworked
-- Changes in the ME Tracklist  ]]></changelog>
-        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip</source>
-      </version>
       <version name="1.2" author="Pet" time="2017-08-28T21:52:00Z">
         <changelog><![CDATA[- "Record Arm" buttons in TrackControlPanel adapted to other record buttons
 - Fixed "Record Arm" button shadow in tcp-small layouts 
@@ -76,10 +71,6 @@
         <link rel="screenshot" href="http://stash.reaper.fm/29518/Default%20v5%20Dark%20tcp%20and%20Arrange%20HiRes.PNG">Arrange and TCP with "Standard bottom"</link>
         <link rel="screenshot" href="http://stash.reaper.fm/29515/Default%20v5%20Dark%20Midi%20Editor%20HiRes.PNG">MIDI Editor</link>
       </metadata>
-      <version name="1.0" author="Pet" time="2017-04-19T08:04:55Z">
-        <changelog><![CDATA[- initial release with separators ]]></changelog>
-        <source file="Default_5_Dark_Extended.ReaperThemeZip">http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip</source>
-      </version>
       <version name="1.1" author="Pet" time="2017-08-28T21:52:12Z">
         <changelog><![CDATA[- "Record Arm" buttons in TrackControlPanel adapted to other record buttons
 - Fixed "Record Arm" button shadow in tcp-small layouts  

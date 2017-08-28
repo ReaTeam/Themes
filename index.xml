@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaTeam Themes" commit="75dc2ea69f2db574ae3a45ea26d2f1e2ec090fde">
+<index version="1" name="ReaTeam Themes" commit="0e4c80705f352abe689bd02482a6bbe4ca5fbb76">
   <category name="Mods">
     <reapack name="cfillion_Default v4.0 + width.theme" type="theme" desc="Default v4.0 theme + width knob">
       <metadata>
@@ -24,7 +24,7 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 This is my dark version of the v5 default theme. It has the same functionality and layouts as the original theme, if you color your tracks, the color is more visible.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This is my dark version of the v5 default theme. It has the same functionality as the original theme and includes all layouts. The colors you choose for your tracks are more visible. If you want it pastel-colored or saturated colors, it looks more like you've chosen it . But its overall appearance is dark.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 There are some differences I want to mention:\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 This has changed:\par}
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab if you use the "Dual Pan"-Mode, the color of the right channel is red, the left channel is blue, according to the other pan colors\par}
@@ -44,6 +44,12 @@
       <version name="1.1" author="Pet" time="2017-04-19T08:04:55Z">
         <changelog><![CDATA[- MIDI Editor Colormap reworked
 - Changes in the ME Tracklist  ]]></changelog>
+        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip</source>
+      </version>
+      <version name="1.2" author="Pet" time="2017-08-28T21:52:00Z">
+        <changelog><![CDATA[- "Record Arm" buttons in TrackControlPanel adapted to other record buttons
+- Fixed "Record Arm" button shadow in tcp-small layouts 
+- Fader buttons in mixer reworked  ]]></changelog>
         <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip</source>
       </version>
     </reapack>
@@ -72,6 +78,12 @@
       </metadata>
       <version name="1.0" author="Pet" time="2017-04-19T08:04:55Z">
         <changelog><![CDATA[- initial release with separators ]]></changelog>
+        <source file="Default_5_Dark_Extended.ReaperThemeZip">http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip</source>
+      </version>
+      <version name="1.1" author="Pet" time="2017-08-28T21:52:12Z">
+        <changelog><![CDATA[- "Record Arm" buttons in TrackControlPanel adapted to other record buttons
+- Fixed "Record Arm" button shadow in tcp-small layouts  
+- Fader buttons in mixer reworked   ]]></changelog>
         <source file="Default_5_Dark_Extended.ReaperThemeZip">http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip</source>
       </version>
     </reapack>

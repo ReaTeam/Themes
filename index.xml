@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaTeam Themes" commit="0e4c80705f352abe689bd02482a6bbe4ca5fbb76">
+<index version="1" name="ReaTeam Themes" commit="fa18b432f6e036ba8423da969abd8c5efb5ab492">
   <category name="Mods">
     <reapack name="cfillion_Default v4.0 + width.theme" type="theme" desc="Default v4.0 theme + width knob">
       <metadata>
@@ -45,6 +45,11 @@
         <changelog><![CDATA[- "Record Arm" buttons in TrackControlPanel adapted to other record buttons
 - Fixed "Record Arm" button shadow in tcp-small layouts 
 - Fader buttons in mixer reworked  ]]></changelog>
+        <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip</source>
+      </version>
+      <version name="1.3" author="Pet" time="2017-12-20T00:40:14Z">
+        <changelog><![CDATA[- Midi Editor colors for musical notation mode attuned
+- some images corrected ]]></changelog>
         <source file="Default_5_Dark.ReaperThemeZip">http://stash.reaper.fm/29513/Default_5_Dark.ReaperThemeZip</source>
       </version>
     </reapack>

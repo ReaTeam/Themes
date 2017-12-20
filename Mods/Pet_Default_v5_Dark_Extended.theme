@@ -1,9 +1,10 @@
 @description Default v5 Dark Extended Theme
-@version 1.1
+@version 2.0
 @changelog
-  - "Record Arm" buttons in TrackControlPanel adapted to other record buttons
-  - Fixed "Record Arm" button shadow in tcp-small layouts  
-  - Fader buttons in mixer reworked   
+  - Horizontal Meter Layouts added in TCP
+  - "Foldermeter" for minimized folder child tracks added
+  - "Automation Record Arm" buttons reworked
+  - Midi Editor colors for musical notation mode attuned
 @provides Default_5_Dark_Extended.ReaperThemeZip http://stash.reaper.fm/30492/Default_5_Dark_Extended.ReaperThemeZip
 @author Pet
 @links
@@ -14,7 +15,7 @@
   Arrange and TCP with "Standard bottom" http://stash.reaper.fm/29518/Default%20v5%20Dark%20tcp%20and%20Arrange%20HiRes.PNG
   MIDI Editor http://stash.reaper.fm/29515/Default%20v5%20Dark%20Midi%20Editor%20HiRes.PNG
 @about
-  This is the extended version of my Default 5 Dark Theme, a darker version of the original default theme. It has more layouts, at the moment only separators, but I'm working on some more. (see the thread in the forum)
+  This is the extended version of my Default 5 Dark Theme, a darker version of the original default theme with more layouts. (see the thread in the forum)
 
   There are some differences I want to mention:
 
@@ -25,4 +26,4 @@
 
   This has been added:
   - a layout named "Standard bottom" for the Transport Bar, which can be useful when you have the Transport Bar docked at the bottom of the main window. This layout adds a little space below the Play Buttons.
-  - a drum toolbar button for the MIDI Editor. If you use the "Named Notes Mode" for drums and want a drum icon there, you can take this one. There's actually a drum icon in the default theme, but in the MIDI Editor there is now a nice frame around these four Mode-Icons. I added this frame to that toolbar icon.
+  - a drum toolbar button for the MIDI Editor. If you use the "Named Notes Mode" for drums and want a drum icon there, you can take this one. There's actually a drum icon in the default theme, but in the MIDI Editor there is a small frame around these four Mode-Icons. I added this frame to that toolbar icon.

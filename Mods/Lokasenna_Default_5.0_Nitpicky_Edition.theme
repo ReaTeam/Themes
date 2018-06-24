@@ -1,10 +1,11 @@
 @description Default 5.0 Nitpicky Edition
-@version 15
+@version 15.01
 @author Lokasenna
+@changelog
+  Hosting on Dropbox because the Stash is limited to 2mb
 @links
   Forum Thread https://forum.cockos.com/showthread.php?t=165040
-  Stash Page https://stash.reaper.fm/24878/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip
 @screenshot https://i.imgur.com/irCO9qZ.png
-@provides Default 5.0 Nitpicky Edition.ReaperThemeZip https://stash.reaper.fm/24878/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip
+@provides Default 5.0 Nitpicky Edition.ReaperThemeZip https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1
 @about
   Fixes and tiny improvements for the default Reaper 5.0 theme.

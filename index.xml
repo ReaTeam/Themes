@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaTeam Themes" commit="8d23f7278d23a45a49e937c3405a26b00d6aec3f">
+<index version="1" name="ReaTeam Themes" commit="a774c918917982a70a494b1f921134703291201d">
   <category name="Mods">
     <reapack name="cfillion_Default v4.0 + width.theme" type="theme" desc="Default v4.0 theme + width knob">
       <metadata>
@@ -28,11 +28,14 @@
 }
 ]]></description>
         <link rel="website" href="https://forum.cockos.com/showthread.php?t=165040">Forum Thread</link>
-        <link rel="website" href="https://stash.reaper.fm/24878/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip">Stash Page</link>
         <link rel="screenshot">https://i.imgur.com/irCO9qZ.png</link>
       </metadata>
       <version name="15" author="Lokasenna" time="2018-06-23T18:48:32Z">
         <source file="Default 5.0 Nitpicky Edition.ReaperThemeZip">https://stash.reaper.fm/24878/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip</source>
+      </version>
+      <version name="15.01" author="Lokasenna" time="2018-06-24T12:29:09Z">
+        <changelog><![CDATA[Hosting on Dropbox because the Stash is limited to 2mb]]></changelog>
+        <source file="Default 5.0 Nitpicky Edition.ReaperThemeZip">https://www.dropbox.com/s/pqkb6kv8qomi3to/Default%205.0%20Nitpicky%20Edition.ReaperThemeZip?dl=1</source>
       </version>
     </reapack>
     <reapack name="Pet_Default_v5_Dark.theme" type="theme" desc="Default v5 Dark Theme">

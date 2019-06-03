@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaTeam Themes" commit="08c21d6942437c645ebc05d57db35f29ed403762">
+<index version="1" name="ReaTeam Themes" commit="1e392736da762511ff1cb1604dfa27a517779bf9">
   <category name="Mods">
     <reapack name="cfillion_Default v4.0 + width.theme" type="theme" desc="Default v4.0 theme + width knob">
       <metadata>
@@ -25,16 +25,15 @@
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 ReAerah theme\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Simple, not fancy, compact theme, has a lot of layouts, possible to change track/item color settings in REAPER's optons for different tastes. (for default settings of theme, click Screenshot button and select "settings")\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Install free fonts for proper look (google them or click Screenshot and select link): Digital-7 Mono Anita Semi-square\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 link to https://forum.cockos.com/showthread.php?t=191616\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Simple, not fancy, compact theme, has a lot of layouts, possible to change track/item color settings in REAPER's options for different tastes. (for default settings of theme, click Screenshot button and select "settings")\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Install free fonts for proper look (google them or click Website button and select corresponding link): Digital-7 Mono Anita Semi-square\par}
 }
 ]]></description>
         <link rel="website" href="https://forum.cockos.com/showthread.php?t=191616">Forum Thread</link>
         <link rel="website" href="http://www.styleseven.com/php/get_product.php?product=Digital-7">font Digital-7-Mono</link>
         <link rel="website" href="http://www.1001freefonts.com/anita_semi_square.font">font Anita Semi-square</link>
         <link rel="screenshot" href="https://imgur.com/a/Dh7FeRg">TCP default and folder layouts</link>
-        <link rel="screenshot" href="https://imgur.com/a/VrjGxIt">MCP Fullscreen layouts</link>
+        <link rel="screenshot" href="https://imgur.com/a/VrjGxIt">MCP fullscreen layouts</link>
         <link rel="screenshot" href="https://imgur.com/a/O6TNXKX">settings</link>
       </metadata>
       <version name="18" author="dopp" time="2019-06-03T09:44:41Z">

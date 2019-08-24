@@ -1,0 +1,15 @@
+@description RADO-VOX-Artek
+@author Oleg-Artek-Music
+@version 1
+@changelog Improved colors and fonts. Changed some image files.
+@provides . > New file 1.theme
+@screenshot
+  Main Vindow https://github.com/Oleg-Artek-Music/Artek/blob/master/Main%20Window.png
+  Mixer https://github.com/Oleg-Artek-Music/Artek/blob/master/Mixer.png
+  MIDI Editor https://github.com/Oleg-Artek-Music/Artek/blob/master/MIDI%20Editor%20B.png
+  Waveform https://github.com/Oleg-Artek-Music/Artek/blob/master/Waveform.png
+  Score Editor https://github.com/Oleg-Artek-Music/Artek/blob/master/Score%20Editor.png
+  Automation https://github.com/Oleg-Artek-Music/Artek/blob/master/Automation.png
+  Envelopes Control https://github.com/Oleg-Artek-Music/Artek/blob/master/Envelopes%20Control.png
+  Routing Control https://github.com/Oleg-Artek-Music/Artek/blob/master/Routing%20Control.png
+@about I improved the "RADO VOX" (by John Gordon) Reaper theme. Some items I used from other resources - "RADO V4 Basic by Nick Mortiz, "Default Commala 5" by Commala,"WT Braun DNoiseV" by Nikos Krionas and others. I tried to make my Reaper Theme the most convenient for your eyesight.

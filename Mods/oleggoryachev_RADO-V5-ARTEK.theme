@@ -2,7 +2,7 @@
 @author Oleg Goryachev
 @version 1
 @changelog Changed colors and fonts, replaced and tuned some png files. Added "Preview" Global knob.
-@provides RADO-V5-ARTEK.theme https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/RADO-V5-ARTEK.ReaperThemeZip
+@provides RADO-V5-ARTEK.ReaperThemeZip https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip
 @screenshot
   Main Window https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/01.%20Main%20Window.png
   Piano Roll Editor https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/02.%20Piano%20Roll%20Editor.png

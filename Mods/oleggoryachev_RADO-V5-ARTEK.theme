@@ -1,8 +1,8 @@
 @description RADO-V5-ARTEK
 @author Oleg Goryachev
-@version 1
-@changelog Changed colors and fonts, replaced and tuned some png files. Added "Preview" Global knob.
-@provides RADO-V5-ARTEK.ReaperThemeZip https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/989f3cee00084865ae6a0a35eba70902e706f35b/RADO-V5-ARTEK.ReaperThemeZip
+@version 1.0.1
+@changelog Changed colours and fonts. Replaced and tuned some PNG Files.
+@provides New file 6.ReaperThemeZip https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/RADO-V5-ARTEK.ReaperThemeZip
 @screenshot
   Main Window https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/01.%20Main%20Window.png
   Piano Roll Editor https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/02.%20Piano%20Roll%20Editor.png
@@ -11,11 +11,7 @@
   Automation https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/05.%20Automation.png
   Folder Tracks https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/06.%20Folder%20Tracks.png
   Musical Notation https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/07.%20Musical%20Notation.png
-  Plugin Brouser https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/08.%20FX%20Brousing.png
-  Envelopes https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/09.%20Envelopes.png
-  Global Automation https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/10.%20Preview%20Global%20Automation.png
-  Routing https://github.com/Oleg-Artek-Music/Reaper-Daw/raw/master/11.%20Routing.png
 @about
-  Hello everybody! I present #RADO-V5-ARTEK theme! I modified the famous #RADO-V4 (by Nick Mortiz),  trying to make the most convenient environment for my eyes. After 26 years making music it dawned on me that saving eyesight is the most important thing! Download, drag the theme into your Reaper main window. Enjoy! Note for Linux users: you have to install "Comic Sans" and "Calibri" fonts on your operation system. Anyway you can change any font in Reaper, and adjust everything you want. Best regards, Oleg Goryachev.
-  oleg-artek-music@yandex.ru
+  Hello everybody! I modified the famous RADO-V4 (by Nick Mortiz) Reaper theme. I tried to make the most convenient environment for my eyes. After 26 years making music it dawned on me that saving eyesight must be the most important thing! I used Comic Sans and Calibri fonts. If you haven't these fonts, you can find them in the Internet. Best regards, Oleg Goryachev.
+  https://vk.com/ogsmusic
   https://www.youtube.com/user/ogsmaker/

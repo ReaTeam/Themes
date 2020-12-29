@@ -1,6 +1,6 @@
 # ReaTeam Theme Repository
 
-[![Build status](https://travis-ci.org/ReaTeam/Themes.svg?branch=master)](https://travis-ci.org/ReaTeam/Themes)
+![check](https://github.com/ReaTeam/Themes/workflows/check/badge.svg)
 
 Community-maintained collection of themes for REAPER.
 

@@ -1,0 +1,18 @@
+@description Flat Madness
+@author gapalil001
+@version 3.5
+@changelog fixed issue, when MCP panel width becomes default if Embedded UI's two or more
+@provides
+  Flat_Madness/Flat Madness Black.ReaperThemeZip
+  Flat_Madness/Flat Madness Bright.ReaperThemeZip
+  Flat_Madness/Flat Madness Dark.ReaperThemeZip
+  Flat_Madness/Flat Madness Grey.ReaperThemeZip
+@screenshot main screen https://stash.reaper.fm/43817/FM%2035%20BRIGHT%20SOLID.png
+@donation Buy Me A Coffee http://buymeacoffee.com/flatmadness
+@about
+  Flat Madness theme is created to work with TCP FX/send list and to looks flat and rounded there is 4 color schemes are available. you have a lot of features:
+   - full support of hidpi/Retina screens, 150% and 200% scaling layouts for everything
+   - a lot of different layouts to fit most of tastes
+   - variable parameters in theme tweaker that set controls in TCP/MCP and other
+   - advanced behaviour to display folder tracks
+
